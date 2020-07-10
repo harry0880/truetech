@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "367771052248",
+    "firebase_url": "https://truetech-56324.firebaseio.com",
+    "project_id": "truetech-56324",
+    "storage_bucket": "truetech-56324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367771052248:android:65b18afef34d7321f4cfad",
+        "android_client_info": {
+          "package_name": "harpreet.com.truetech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367771052248-dmtvt2q5jvacgaoj69u8a1542dujki27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "harpreet.com.truetech",
+            "certificate_hash": "f4c3737dbb6388379830d55b577b0baca767813e"
+          }
+        },
+        {
+          "client_id": "367771052248-6kr5np6tcjov8er12ee3a0dkog4lbnfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM7LNQuo-K0EkaKV-u4tduwtoRyiEfDdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367771052248-6kr5np6tcjov8er12ee3a0dkog4lbnfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
